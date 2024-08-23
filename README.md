@@ -1,1 +1,2 @@
-The code is based on pygame and python
+点击速度测试.py需要pygame库
+连点器.py需要pynput库
